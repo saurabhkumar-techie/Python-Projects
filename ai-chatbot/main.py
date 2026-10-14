@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-key = "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"
+key = "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"
 
 messages = []
 
